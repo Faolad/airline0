@@ -21,3 +21,4 @@ urlpatterns = [
     path("flights/", include("flights.urls")),
     path("users/", include("users.urls"))
 ]
+
